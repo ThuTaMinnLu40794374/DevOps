@@ -1,3 +1,3 @@
 Hello this is git testing.
 
-Change
+This is test
